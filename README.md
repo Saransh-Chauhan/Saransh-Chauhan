@@ -9,17 +9,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saransh-chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="saransh-chauhan" /> </p>
 
 - 🔭 I’m currently an **Student** at **Galgotias College Of Engineering & Technology**
-- 🔥 I’m currently working on  [Disney-Clone](https://github.com/Saransh-Chauhan/DISNEY-CLONE)
-- 🌱 I’m currently learning **React JS**
-- 💡 I'm a JAVA Programmer
+- 🔥 I’m currently working as an Front-End Developer intern @ MY Knot
+- 🌱 I’m currently learning **React JS** & **Vanilla JS**
+- 💡 I'm a self learn JAVA Programmer & an Front-End Developer.
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
 - 💬 More passionate to learn **New Tech**
 
 - 📫 Reach me at **saranshchauhanhome@gmail.com**
-
-- 📄 Here's My Resume [shorturl.at/fBF47](shorturl.at/fBF47)
 
 - ⚡ Fun fact **🍻 I Party A lot 🎉**
 
