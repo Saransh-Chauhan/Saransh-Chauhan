@@ -8,10 +8,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saransh-chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="saransh-chauhan" /> </p>
 
-- 🔭 I’m currently a **Student** at **Galgotias College Of Engineering & Technology**
-- 🔥 I’m currently working as an Front-End Developer intern @ MY Knot
-- 🌱 I’m currently learning **React JS** & **Vanilla JS**
-- 💡 I'm a self learn JAVA Programmer & an Front-End Developer.
+- 🔭 I’m currently a **B.Tech Graduate** From **Galgotias College Of Engineering & Technology**
+- 🔥 I’m currently working on upskillng myself as a Software Developer 
+- 🌱 I’m currently learning **SQL** & **Front-end technologies** (Change is Constant)
+- 💡 I'm a self learn Programmer
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
@@ -19,7 +19,7 @@
 
 - 📫 Reach me at **saranshchauhanhome@gmail.com**
 
-- ⚡ Fun fact **🍻 I Party A lot 🎉**
+- ⚡ Fun fact **I Party A lot 🎉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
